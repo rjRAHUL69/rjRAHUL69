@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react
 - 📫 How to reach me mahatorahul0987@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: coding is boaring
 
 <!---
 rjRAHUL69/rjRAHUL69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
