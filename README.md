@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rjRAHUL69
+- 👋 Hi, I’m @RAHUL
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning react
 - 📫 How to reach me mahatorahul0987@gmail.com
